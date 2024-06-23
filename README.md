@@ -12,6 +12,7 @@ This repository contains a Jupyter Notebook implementation of the Mountain Car p
 - [Results](#results)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
+- [Team Members](#team-members)
 
 ## Introduction
 
@@ -76,7 +77,7 @@ To run the notebook, follow these steps:
     ```
 3. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook Mountain_Car_Problem___RL_🚗.ipynb
+    jupyter notebook Mountain_Car_Problem_RL.ipynb
     ```
 4. Run all cells to train the agent and visualize the results.
 
@@ -95,3 +96,10 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Team Members
+
+| Name            | ID          |
+|-----------------|-------------|
+| Birehan Anteneh | UGR/4886/12 |
+| Sefineh Tesfa   | UGR/2844/12 |
