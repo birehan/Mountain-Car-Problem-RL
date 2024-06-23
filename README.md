@@ -1,9 +1,10 @@
-# Mountain Car Problem - Reinforcement Learning 🚗
+# Solving the Mountain Car Problem Using Reinforcement Learning
 
 This repository contains a Jupyter Notebook implementation of the Mountain Car problem using Reinforcement Learning. The Mountain Car problem is a classic control problem in the OpenAI Gym environment.
 
 ## Table of Contents
 
+- [Team Members](#team-members)
 - [Introduction](#introduction)
 - [Environment Initialization](#environment-initialization)
 - [Problem Description](#problem-description)
@@ -12,7 +13,13 @@ This repository contains a Jupyter Notebook implementation of the Mountain Car p
 - [Results](#results)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [Team Members](#team-members)
+
+## Team Members
+
+| Name            | ID          |
+|-----------------|-------------|
+| Birehan Anteneh | UGR/4886/12 |
+| Sefineh Tesfa   | UGR/2844/12 |
 
 ## Introduction
 
@@ -96,10 +103,3 @@ Install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Team Members
-
-| Name            | ID          |
-|-----------------|-------------|
-| Birehan Anteneh | UGR/4886/12 |
-| Sefineh Tesfa   | UGR/2844/12 |
